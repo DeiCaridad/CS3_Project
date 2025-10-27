@@ -22,7 +22,7 @@ Bulbapedia. (2025, October 20). Great Ball - Bulbapedia, the community-driven Po
   - This page will give detailed break-downs of each component of Pokémon in both the advanced and casual modes of the team builder.
 - Highlights
   - This page will showcase recent events such as tournaments, tournament results, new game releases, etc. Each showcased event will redirect the user to the official page of the event when clicked.
-  - The page will also display Pokémon used in tournaments, including fan-favorites, mvps, most popular and more from tournaments and general Pokémon.
+  - The page will also display Pokémon used in tournaments, including fan-favorites, MVPs, most popular and more from tournaments and general Pokémon.
 - Sources
   - This will showcase all the resources used in the website.
 
