@@ -20,10 +20,22 @@ Bulbapedia. (2025, October 20). Great Ball - Bulbapedia, the community-driven Po
   - JavaScript will be used in retrieving data and displaying images for each Pokémon.
 - Guides
   - This page will give detailed break-downs of each component of Pokémon in both the advanced and casual modes of the team builder.
+  - Additionally, this page will also serve as a tutorial for the website.
+  - JavaScript may be used for randomly selecting elements for the UI of the webpage.
 - Highlights
   - This page will showcase recent events such as tournaments, tournament results, new game releases, etc. Each showcased event will redirect the user to the official page of the event when clicked.
   - The page will also display Pokémon used in tournaments, including fan-favorites, MVPs, most popular and more from tournaments and general Pokémon.
 - Sources
   - This will showcase all the resources used in the website.
 
-### Wireframe:
+## Wireframe:
+- Each wireframe will display each page without any additional in-page tabs opened.
+
+### Home Page:
+<img width="1080" height="1910" alt="HomePage" src="https://github.com/user-attachments/assets/7a864546-5983-4c42-9dba-bebb7a8e4d3d" />
+
+### Team Builder:
+<img width="1080" height="1061" alt="PokemonTeamBuilderP2" src="https://github.com/user-attachments/assets/28137400-7437-4a6e-a7bb-0a45cf720944" />
+
+### Guides:
+![Guides2](https://github.com/user-attachments/assets/6b9112a6-2b09-4da4-b1f4-64b0c88bc083)
