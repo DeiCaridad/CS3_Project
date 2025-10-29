@@ -39,3 +39,9 @@ Bulbapedia. (2025, October 20). Great Ball - Bulbapedia, the community-driven Po
 
 ### Guides:
 ![Guides2](https://github.com/user-attachments/assets/6b9112a6-2b09-4da4-b1f4-64b0c88bc083)
+
+### Highlights:
+![Highlights](https://github.com/user-attachments/assets/5b4eb705-9e86-4bb8-ba29-fe1a4b01ca44)
+
+### Sources: 
+![Sources](https://github.com/user-attachments/assets/e9ce7ca3-f0a9-4e8c-903d-cf38381be17b)
