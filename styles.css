@@ -43,7 +43,7 @@ header > headerDropContainer{ /*container that contains text for drop down*/
     position: absolute;
     background-color: transparent;
     top:100%;
-    min-width: 100px; 
+    min-width: 80px; 
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); 
     padding: 12px 16px;
 }
@@ -64,3 +64,39 @@ header > headerDropContainer{ /*container that contains text for drop down*/
 }
 
 /*footer section*/
+
+footer{
+    display:flex;
+    margin-top:90%;
+
+    width:auto;
+    height:8vh;
+
+    flex-direction:column;
+    
+    /*border: 2px;
+    border-style:solid;
+    */
+}
+
+.IconBox{
+    width: 4vh;
+    height: 4vh;
+}
+
+.FtGen{
+    display:flex;
+    
+    width:auto;
+    height:4vh;
+
+    align-items:center;
+    margin-top:.5vh;
+    
+
+    /*border: 2px;
+    border-style:solid;
+    */
+}
+
+
