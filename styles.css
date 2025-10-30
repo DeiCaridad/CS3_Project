@@ -1,5 +1,4 @@
 *{
-    background-color:#E9E9E9;
     color: #121212;
     font-family: "Inter", sans-serif;
 }
@@ -13,22 +12,55 @@ header{ /*container for the header items*/
 
     align-items:center;
 
-    /* for debugging*/
+    /* for debugging
     border:2px;
     border-style:solid;
+    */
 }
 
 header > headerDropContainer{ /*container that contains text for drop down*/
     display:flex;
 
-    margin-left:90%;
+    margin-left:auto;
+    margin-right: 2vh;
+    
 
-    border:2px;
-    border-style:solid;
+    /*border:2px;
+    border-style:solid;*/
 }
 
 .dropdown{
+    display:flex;
     position:relative;
+    border:2px;
+    border-style:solid;
+    border-color:#E9E9E9;
+    background-color:transparent;
+}
+
+.dropdownContent{ 
+    display: none; 
+    position: absolute;
+    background-color: transparent;
+    top:100%;
+    min-width: 100px; 
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); 
+    padding: 12px 16px;
+}
+
+.dropdownContent a{
+    display:block;
+    padding: 8px;
+}
+
+.dropdown:hover .dropdownContent{
+    display:block;
+}
+
+.arrow{
+    width:3vh;
+    height:3vh;
+    align-content:center;
 }
 
 /*footer section*/
