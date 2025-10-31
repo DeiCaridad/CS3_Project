@@ -1,0 +1,22 @@
+/*
+time spent editing since 11:46 pm: 12 minutes
+*/
+
+.titleContainer{
+    display:flex;
+    
+    width:auto;
+    height:min-content;
+
+    margin-top:1.5vh;
+
+    margin-left:0;
+}
+
+.titleImg{
+    width: 100vw;
+    object-fit: cover;
+    display: block;
+
+    filter:brightness(60%);
+}
