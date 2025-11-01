@@ -62,7 +62,6 @@ header > headerDropContainer{ /*container that contains text for drop down*/
     min-width: 80px; 
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); 
     padding: 12px 16px;
-    z-index:6;
     background-color:#E9E9E9
 }
 

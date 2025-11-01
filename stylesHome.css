@@ -1,16 +1,30 @@
 /*
-time spent editing: 21 minutes
+time spent editing: 21 minutes | i forogt how long its been since last update
 */
 
 .titleContainer{
     display:flex;
     
     width:auto;
-    height:min-content;
+    height:100%;
 
     margin-top:1.5vh;
 
     margin-left:0;
+}
+
+.textContainer{
+    display:flex;
+    margin-left:10vw;
+
+    width:auto;
+
+    z-index:9;
+
+    background-color:red;
+
+    border:2px;
+    border-style:solid;
 }
 
 .titleImg{
