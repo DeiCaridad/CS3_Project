@@ -4,12 +4,17 @@ will be used for debugging
 un-comment them when fixing UI
 or if any other issue happens
 
-time spent fixing/adding as of 31/10/2025 10:43 PM: 75 minutes
+time spent fixing/adding stuff: 84 minutes
 */
 
 *{
     color: #121212;
     font-family: "Inter", sans-serif;
+}
+
+body{
+    margin:auto;
+    overflow-x:hidden;
 }
 
 
@@ -21,6 +26,8 @@ header{ /*container for the header items*/
     height:5vh;
 
     align-items:center;
+
+    margin-top:1vh;
 
     /*
     border:2px;
@@ -51,11 +58,12 @@ header > headerDropContainer{ /*container that contains text for drop down*/
 .dropdownContent{ 
     display: none; 
     position: absolute;
-    background-color: transparent;
     top:100%;
     min-width: 80px; 
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); 
     padding: 12px 16px;
+    z-index:6;
+    background-color:#E9E9E9
 }
 
 .dropdownContent a{
